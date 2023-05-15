@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <!-- displays site properly based on user's device -->
+
+    <link
+      rel="icon"
+      type="image/png"
+      sizes="32x32"
+      href="./images/favicon-32x32.png"
+    />
+
+    <title>Frontend Mentor | Stats preview card component</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main>
+      <picture class="picture-container">
+        <source media="(min-width: 600px)" srcset="./images/image-header-desktop.jpg"></source>
+        <img src="./images/image-header-mobile.jpg" alt="Office picture" class="image" width="540" height="446">
+      </picture>
+      
+      <section class="text-container">
+        <h1 class="heading">Get <span class="highlighted">insights</span> that help your business grow.</h1>
+        <p class="description">
+          Discover the benefits of data analytics and make better decisions
+          regarding revenue, customer experience, and overall efficiency.
+        </p>
+
+        <ul role="list" class="achievements-container">
+          <li role="listitem">
+            <p class="achievements-count">10k+</p>
+            <span class="achievements-text">companies</span>
+          </li>
+          <li role="listitem">
+            <p class="achievements-count">314</p>
+            <span class="achievements-text">templates</span>
+          </li>
+          <li role="listitem">
+            <p class="achievements-count">12m+</p>
+            <span class="achievements-text">queries</span>
+          </li>
+        </ul>
+      </section>
+    </main>
+    <footer class="attribution">
+      Challenge by
+      <a href="https://www.frontendmentor.io/challenges/?" target="_blank"
+        >Frontend Mentor</a
+      >. Coded by <a href="https://github.com/ggencas">G. Gencas</a>.
+    </footer>
+  </body>
+</html>
