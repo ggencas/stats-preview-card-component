@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/...](https://www.frontendmentor.io/solutions/...)
-- Live Site URL: [https://ggencas.github.io/.../](https://ggencas.github.io/.../)
+- Solution URL: [https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-built-with-flexgrid-css-bYP3-CxJzN](https://www.frontendmentor.io/solutions/responsive-stats-preview-card-component-built-with-flexgrid-css-bYP3-CxJzN)
+- Live Site URL: [https://ggencas.github.io/stats-preview-card-component/](https://ggencas.github.io/stats-preview-card-component//)
 
 ## My process
 
