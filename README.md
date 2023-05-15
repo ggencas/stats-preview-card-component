@@ -22,7 +22,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./images/screenshot.png)
+[Desktop screenshot](./images/Screenshot-desktop.png)
+[Mobile screenshot](./images/Screenshot-mobile.png)
 
 ### Links
 
@@ -33,7 +34,7 @@ Users should be able to:
 
 ### Built with
 
-- HTML
+- Semantic HTML5 markup
 - CSS
 - Flexbox / Grid
 
